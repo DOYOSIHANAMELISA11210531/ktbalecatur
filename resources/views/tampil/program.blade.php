@@ -1,7 +1,7 @@
 @extends('layouts.master2')
 
 @section('title')
-    Program Kerja Karang Taruna
+    Kegiatan Terlaksana Karang Taruna
 @endsection
 
 @section('content')

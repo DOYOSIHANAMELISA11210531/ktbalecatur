@@ -32,7 +32,7 @@
 
   <!-- Program Kerja Cards -->
   <div class="container mt-5">
-    <h2 class="text-center">Rencana Kegiatan</h2>
+    <h2 class="text-center">Kegiatan Terlaksana</h2>
     <div class="row">
 
             <div class="row">
